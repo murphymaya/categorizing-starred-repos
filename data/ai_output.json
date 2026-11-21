@@ -1,0 +1,2479 @@
+[
+  {
+    "id": 586248938,
+    "category": "File Sharing & Storage",
+    "subcategory": "",
+    "purpose": "PairDrop: Transfer Files Cross-Platform.",
+    "description_fa": "این پروژه برای انتقال و اشتراک‌گذاری فایل میان دستگاه‌ها استفاده می‌شود. PairDrop: Transfer Files Cross-Platform.",
+    "tags": [
+      "file-sharing",
+      "indexeddb",
+      "nodejs",
+      "pwa",
+      "webrtc"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "File Sharing & Storage"
+  },
+  {
+    "id": 1427490114,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "Turn an OpenAPI file or a recorded website into a curated, tested MCP server; your agent designs the tools.",
+    "description_fa": "این ابزار به توسعه‌دهندگان کمک می‌کند تا این کار را انجام دهند: Turn an OpenAPI file or a recorded website into a curated, tested MCP server; your agent designs the tools.",
+    "tags": [
+      "agent-skills",
+      "android",
+      "claude-code",
+      "code-generation",
+      "electron"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1451744346,
+    "category": "Web & Frontend",
+    "subcategory": "Frameworks",
+    "purpose": "Interactive map of Iran's 31 provinces: hover for a photo inside each border, click for capital, population, area and a photo slideshow.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: Interactive map of Iran's 31 provinces: hover for a photo inside each border, click for capital, population, area and a photo slideshow.",
+    "tags": [
+      "interactive-map",
+      "iran",
+      "map",
+      "svg"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 136613983,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian.",
+    "tags": [
+      "bash-script",
+      "centos",
+      "debian",
+      "installer",
+      "mtproto-proxy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1413837825,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A lightweight Linux desktop extension for managing V2Ray proxy connections with ease.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A lightweight Linux desktop extension for managing V2Ray proxy connections with ease.",
+    "tags": [
+      "extension",
+      "gnome",
+      "gnome-shell",
+      "gnome-shell-extension",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1301827233,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust.",
+    "tags": [
+      "aether",
+      "android",
+      "censorship",
+      "gui",
+      "kotlin"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1453753095,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Android client for the Firefox VPN engine: TUN or local proxy, Firefox Account sign-in, four-language UI.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Android client for the Firefox VPN engine: TUN or local proxy, Firefox Account sign-in, four-language UI.",
+    "tags": [
+      "niloofar",
+      "vpn"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1427211561,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Telegram WEB Proxy on Cloudflare Workers.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Telegram WEB Proxy on Cloudflare Workers.",
+    "tags": [
+      "anti-filtering",
+      "bypass-censorship",
+      "censorship-circumvent",
+      "china",
+      "cloudflare"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 443585774,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Free, open-source anti-censorship app for Windows, macOS, Linux, Android, iPhone, iPad and TV.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Free, open-source anti-censorship app for Windows, macOS, Linux, Android, iPhone, iPad and TV.",
+    "tags": [
+      "android",
+      "anti-censorship",
+      "bypass-censorship",
+      "censorship-circumvention",
+      "dns-over-https"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1318601729,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Official NovaLink VPN downloads for Windows and Android.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Official NovaLink VPN downloads for Windows and Android.",
+    "tags": [
+      "novalink"
+    ],
+    "confidence": "medium",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1347431671,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Uptime monitor that tells a real outage apart from an Iran-access block.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Uptime monitor that tells a real outage apart from an Iran-access block.",
+    "tags": [
+      "check-host",
+      "check-host-api",
+      "desktop-app",
+      "devops",
+      "docker"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1423061103,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Guided Soar server installer for Ubuntu 24.04 amd64, with Persian documentation and WhiteDNS IR/GLOBAL profiles.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Guided Soar server installer for Ubuntu 24.04 amd64, with Persian documentation and WhiteDNS IR/GLOBAL profiles.",
+    "tags": [
+      "soar",
+      "server"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1262879070,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "سیستم تجمیع هوشمند و خودکار کانفیگ (V2ray & Clash).",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: سیستم تجمیع هوشمند و خودکار کانفیگ (V2ray & Clash).",
+    "tags": [
+      "clash",
+      "config",
+      "freeconfigs",
+      "mihomo",
+      "sub"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 609562037,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Powerfull proxy.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Powerfull proxy.",
+    "tags": [
+      "nipovpn"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 957594357,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Pywarp is a powerful replacement for the official Cloudflare WARP app, offering an intuitive UI and extended options, including advanced DNS settings, custom endpoints, and support for change protocols like masque and WireGuard.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Pywarp is a powerful replacement for the official Cloudflare WARP app, offering an intuitive UI and extended options, including advanced DNS settings, custom endpoints, and support for change protocols like mas",
+    "tags": [
+      "cloudflare",
+      "cloudflare-warp",
+      "masque",
+      "pyqt6",
+      "pyside6"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 431750475,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "🐉 DRAGON VPS MANAGER 🐉.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 🐉 DRAGON VPS MANAGER 🐉.",
+    "tags": [
+      "linux",
+      "linux-server",
+      "python",
+      "shell-script",
+      "shellbot"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 613747656,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "a bash script to help you bypass GFW.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: a bash script to help you bypass GFW.",
+    "tags": [
+      "bash",
+      "bash-script",
+      "bash-scripting",
+      "linux",
+      "nginx-proxy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 599735720,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG).",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG).",
+    "tags": [
+      "ech",
+      "fail2ban",
+      "http",
+      "hysteria2",
+      "mixed"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1245086469,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Modern Multi-Engine Windows Client & Anti-Censorship Suite.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Modern Multi-Engine Windows Client & Anti-Censorship Suite.",
+    "tags": [
+      "firefox",
+      "foxyvpn",
+      "lantern",
+      "mihomo",
+      "psiphon"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1213190704,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A lightweight Bash tool to scan common CDN ports on a list of IPs and domains.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A lightweight Bash tool to scan common CDN ports on a list of IPs and domains.",
+    "tags": [
+      "scanner",
+      "sni"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1147114646,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Sets of tools to help bypass DPI.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Sets of tools to help bypass DPI.",
+    "tags": [
+      "network",
+      "checker"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1239906475,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Free VLESS proxy using GitHub Codespaces - NikVPN for Iran.",
+    "tags": [
+      "nikvpn",
+      "codespace"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1218376253,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "⚡ StormDNS A DNS-based TCP tunnel for censored, lossy, high-latency networks.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: ⚡ StormDNS A DNS-based TCP tunnel for censored, lossy, high-latency networks.",
+    "tags": [
+      "stormdns"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1213744284,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Open-source PPTP/L2TP VPN client for modern Android devices.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Open-source PPTP/L2TP VPN client for modern Android devices.",
+    "tags": [
+      "android",
+      "android-vpn",
+      "dart",
+      "flutter",
+      "ikev1"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1249403034,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌ه",
+    "tags": [
+      "arimando"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1235572541,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "TunnelX - Windows split-tunneling VPN manager | مدیریت تونل و Split Tunneling برای ویندوز.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: TunnelX - Windows split-tunneling VPN manager | مدیریت تونل و Split Tunneling برای ویندوز.",
+    "tags": [
+      "tunnelx"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1229084589,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship, Android VPN app + desktop proxy https://t.me/z_yrln | https://t.me/z_yrln_channel.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship, Android VPN app + desktop proxy https://t.me/z_yrln | https://t.me/z_yrln_channel.",
+    "tags": [
+      "zyrln"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1222975902,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers.",
+    "tags": [
+      "cloudflare-workers",
+      "domain-fronting",
+      "dpi",
+      "dpi-bypass",
+      "google-apps-script"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1217102150,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation.",
+    "tags": [
+      "anti-censorship",
+      "censorship-circumvention",
+      "cross-platform",
+      "desktop-app",
+      "domain-fronting"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1135369026,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "# VayDNS Userspace DNS tunnel with support for DoH, DoT, and plaintext UDP.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: # VayDNS Userspace DNS tunnel with support for DoH, DoT, and plaintext UDP.",
+    "tags": [
+      "vaydns"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1149988178,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Menu-based manager for deploying and operating FPTN VPN Server.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Menu-based manager for deploying and operating FPTN VPN Server.",
+    "tags": [
+      "fptn",
+      "manager"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1145815300,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual.",
+    "tags": [
+      "dns",
+      "dnstt",
+      "doh",
+      "dot",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1141510799,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Mother of all VPNs Server Stack.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Mother of all VPNs Server Stack.",
+    "tags": [
+      "circumvention-tool",
+      "digital-rights",
+      "infrastructure",
+      "internet-freedom",
+      "proxy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 395603057,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "# 🤖SSH-PLUS-MANAGER BY Danuara * Updated 08/13/2021 - Completed Project (සම්පූර්ණ කරන ලද ව්‍යාපෘතිය) # 🌐Language * ENGLISH * SINHALA # ❤️Remodied for Sri Lanka ...",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: # 🤖SSH-PLUS-MANAGER BY Danuara * Updated 08/13/2021 - Completed Project (සම්පූර්ණ කරන ලද ව්‍යාපෘතිය) # 🌐Language * ENGLISH * SINHALA # ❤️Remodied for Sri Lanka ...",
+    "tags": [
+      "ssh",
+      "plus",
+      "manager"
+    ],
+    "confidence": "medium",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 598352816,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "xray panel supporting multi-protocol multi-user expire day & traffic & IP-Limit (Vmess & Vless & Trojan & Shadowsocks & Hysteria).",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: xray panel supporting multi-protocol multi-user expire day & traffic & IP-Limit (Vmess & Vless & Trojan & Shadowsocks & Hysteria).",
+    "tags": [
+      "hysteria",
+      "hysteria2",
+      "iplimit",
+      "reality",
+      "shadowsocks"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 970417501,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-en",
+    "tags": [
+      "anytls",
+      "argo",
+      "cloudflared",
+      "docker-image",
+      "hysteria2"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 703575885,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "SSH TUI Panel to manage and monitor ssh users.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: SSH TUI Panel to manage and monitor ssh users.",
+    "tags": [
+      "ssh",
+      "panel"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 543479324,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed.",
+    "tags": [
+      "airport",
+      "best-nodes",
+      "china-censorship",
+      "clash",
+      "clash-config"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 135416916,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "High performance Erlang MTProto proxy that powers https://t.me/socksy_bot.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: High performance Erlang MTProto proxy that powers https://t.me/socksy_bot.",
+    "tags": [
+      "censorship-circumvention",
+      "erlang",
+      "mtproto-proxy",
+      "telegram"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1145087560,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "ویفای(Vify) چیست؟",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: ویفای(Vify) چیست؟",
+    "tags": [
+      "shadowsocks",
+      "trojan",
+      "v2rayng",
+      "vless",
+      "vmess"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1261108189,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "🔒 Free V2Ray configs auto-updated every 15m | VLESS, VMess, Trojan, Shadowsocks, Hysteria2, Reality | subscription link | bypass censorship | Compatible with v2rayNG, Hiddify, NekoRay, NekoBox, v2rayN, Clash Meta, Shadowrocket | xray-core | iran | free vpn | @Raydikalx.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 🔒 Free V2Ray configs auto-updated every 15m | VLESS, VMess, Trojan, Shadowsocks, Hysteria2, Reality | subscription link | bypass censorship | Compatible with v2rayNG, Hiddify, NekoRay, NekoBox, v2rayN, Clash Me",
+    "tags": [
+      "bypass-censorship",
+      "free-v2ray",
+      "free-vpn",
+      "hiddify",
+      "hysteria2"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 874799690,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Freedom Guard – Open-source VPN for secure, fast, and free internet access with Freedom Browser, Freedom Warp, and Freedom Vibe.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Freedom Guard – Open-source VPN for secure, fast, and free internet access with Freedom Browser, Freedom Warp, and Freedom Vibe.",
+    "tags": [
+      "cloudflare",
+      "config",
+      "electronjs",
+      "freedom",
+      "guard"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 756446459,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Sunnify is a Spotify downloader application + CLI that allows you to download entire playlists locally onto your Mac/Linux/Windows PC.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Sunnify is a Spotify downloader application + CLI that allows you to download entire playlists locally onto your Mac/Linux/Windows PC.",
+    "tags": [
+      "desktop-app",
+      "mp3",
+      "music-downloader",
+      "playlist-downloader",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1464736212,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Cross-platform ISP filtering diagnostics, bare-IP DoH configs, Fastly mirror pinning, and WireGuard helpers (Windows / macOS / Linux).",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Cross-platform ISP filtering diagnostics, bare-IP DoH configs, Fastly mirror pinning, and WireGuard helpers (Windows / macOS / Linux).",
+    "tags": [
+      "censorship",
+      "cross-platform",
+      "dns",
+      "dnscrypt-proxy",
+      "dpi"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1016408545,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Free VPNs with VMess, VLESS, Shadowsocks & SSTP — powered by V2rayCollector.",
+    "tags": [
+      "anti-censorship",
+      "bypass-filter",
+      "f0rc3run",
+      "forcerun",
+      "forcerun-panel"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1289066249,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Aevum &nbsp;—&nbsp; download video &amp; audio from any site.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Aevum &nbsp;—&nbsp; download video &amp; audio from any site.",
+    "tags": [
+      "alonera"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1288679691,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Download videos and audio from any site.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Download videos and audio from any site.",
+    "tags": [
+      "downloader",
+      "ffmpeg",
+      "linux",
+      "video-downloader",
+      "windows"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1460469810,
+    "category": "System Utilities",
+    "subcategory": "",
+    "purpose": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar.",
+    "description_fa": "این پروژه یک ابزار سیستمی/رومیزی برای انجام این کار است: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar.",
+    "tags": [
+      "wireless",
+      "device",
+      "battery",
+      "monitor"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "System Utilities"
+  },
+  {
+    "id": 1439803209,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "به سادگی یک کلیک وصل بشید.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: به سادگی یک کلیک وصل بشید.",
+    "tags": [
+      "meh",
+      "vpn"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1438478196,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时.",
+    "tags": [
+      "android",
+      "android-x86",
+      "apk",
+      "electron",
+      "emulator"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1407407850,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "# مدپرشیا (MdPersia) ### ابزار مدرن، آفلاین و تخصصی تبدیل اسناد Markdown فارسی و RTL به Word (DOCX) و PDF [](https://github.com/hamid-morsali-786/MdPersia/stargazers) [](https://github.com/hamid-morsali-786/MdPersia/network/members) [](https://github.com/hamid-morsali-786/MdPersia/releases/latest) [](https://pypi.org/project/mdpersia/) [](LICENSE).",
+    "description_fa": "این پروژه ابزاری برای زبان فارسی و کاربران فارسی‌زبان است: # مدپرشیا (MdPersia) ### ابزار مدرن، آفلاین و تخصصی تبدیل اسناد Markdown فارسی و RTL به Word (DOCX) و PDF [](https://github.com/hamid-morsali-786/MdPersia/stargazers) [](https://github.com/hamid-morsali-786/MdP",
+    "tags": [
+      "mdpersia"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1331818474,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.",
+    "tags": [
+      "dextop"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1343939398,
+    "category": "System Utilities",
+    "subcategory": "",
+    "purpose": "Account Record Cleaner Removes the local \"expired account\" record the Windscribe Windows client stores in the registry.",
+    "description_fa": "این پروژه یک ابزار سیستمی/رومیزی برای انجام این کار است: Account Record Cleaner Removes the local \"expired account\" record the Windscribe Windows client stores in the registry.",
+    "tags": [
+      "vpn",
+      "bypass"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "System Utilities"
+  },
+  {
+    "id": 1307265644,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "🫐 Mulberry — A modern, minimal Xray client for Windows.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 🫐 Mulberry — A modern, minimal Xray client for Windows.",
+    "tags": [
+      "mulberry"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1325141112,
+    "category": "Design & UI/UX",
+    "subcategory": "",
+    "purpose": "A native Qt 6/QML live-activity island and Dwindle tiling workspace for Windows 11.",
+    "description_fa": "این پروژه در زمینه طراحی رابط کاربری و ظاهر نرم‌افزار است: A native Qt 6/QML live-activity island and Dwindle tiling workspace for Windows 11.",
+    "tags": [
+      "cpp",
+      "dynamic-island",
+      "qml",
+      "qt6",
+      "tiling-window-manager"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1138813480,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "A modern, high-performance GUI for the scrcpy.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: A modern, high-performance GUI for the scrcpy.",
+    "tags": [
+      "scrcpy",
+      "gui"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1396526702,
+    "category": "Data & Visualization",
+    "subcategory": "Data Processing",
+    "purpose": "Free, open-source file converter.",
+    "description_fa": "این پروژه داده‌ها را برای این کاربرد پردازش یا نمایش می‌دهد: Free, open-source file converter.",
+    "tags": [
+      "audio-converter",
+      "avalonia",
+      "batch-conversion",
+      "converter",
+      "csharp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 910768159,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "هفت‌رخ یک برنامه تقویم فارسی است که با طراحی ساده و کاربرپسند خود، تجربه‌ای خاص از مشاهده تاریخ‌ شمسی در محیط ویندوز را فراهم می‌آورد.",
+    "description_fa": "این پروژه ابزاری برای زبان فارسی و کاربران فارسی‌زبان است: هفت‌رخ یک برنامه تقویم فارسی است که با طراحی ساده و کاربرپسند خود، تجربه‌ای خاص از مشاهده تاریخ‌ شمسی در محیط ویندوز را فراهم می‌آورد.",
+    "tags": [
+      "haftrokh"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1352807807,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Caspian-BYOC: a Persian-first anti-DPI WiFi gateway for Windows, macOS, Raspberry Pi, Orange Pi Zero and Linux.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Caspian-BYOC: a Persian-first anti-DPI WiFi gateway for Windows, macOS, Raspberry Pi, Orange Pi Zero and Linux.",
+    "tags": [
+      "anti-censorship",
+      "censorship-circumvention",
+      "dpi-bypass",
+      "hysteria2",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1371710354,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "Browser extension that auto-fixes Persian typos as you type.",
+    "description_fa": "این پروژه ابزاری برای زبان فارسی و کاربران فارسی‌زبان است: Browser extension that auto-fixes Persian typos as you type.",
+    "tags": [
+      "browser-extension",
+      "chrome",
+      "chrome-extension",
+      "chrome-extensions",
+      "farsi"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1359515618,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "یک تقویم، بدون حواس‌پرتی.",
+    "description_fa": "این پروژه ابزاری برای زبان فارسی و کاربران فارسی‌زبان است: یک تقویم، بدون حواس‌پرتی.",
+    "tags": [
+      "taghvim"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 909757140,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "# دعوت‌نامه‌ساز | ساخت دعوت‌نامه آنلاین استودیوی مرورگری ساخت کارت دعوت: تصویر خودتان را می‌گذارید، نام‌ها را وارد می‌کنید و همه کارت‌ها را یک‌جا دانلود می‌کنید.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: # دعوت‌نامه‌ساز | ساخت دعوت‌نامه آنلاین استودیوی مرورگری ساخت کارت دعوت: تصویر خودتان را می‌گذارید، نام‌ها را وارد می‌کنید و همه کارت‌ها را یک‌جا دانلود می‌کنید.",
+    "tags": [
+      "event",
+      "invitation"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 478710402,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "🖼️ Image Toolbox is a powerful app for advanced image manipulation.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: 🖼️ Image Toolbox is a powerful app for advanced image manipulation.",
+    "tags": [
+      "ai",
+      "android",
+      "background-removal",
+      "crop",
+      "edit-photo"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1317814020,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Command-deck proxy ops console — users, nodes, cores & subscription delivery.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Command-deck proxy ops console — users, nodes, cores & subscription delivery.",
+    "tags": [
+      "dashboard",
+      "fastapi",
+      "hpxpanel",
+      "proxy",
+      "react"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1451562411,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Dark TV تلویزیون آنلاین.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Dark TV تلویزیون آنلاین.",
+    "tags": [
+      "android",
+      "android-app",
+      "android-application",
+      "android-tv",
+      "app"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1329666887,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Proof-of-concept WEB proxy server for Telegram.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Proof-of-concept WEB proxy server for Telegram.",
+    "tags": [
+      "tproxy",
+      "server"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1297899468,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A VPN client that offers free servers and one-click connection.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A VPN client that offers free servers and one-click connection.",
+    "tags": [
+      "config",
+      "singbox",
+      "tunnel",
+      "v2ray",
+      "vpn"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1291497410,
+    "category": "Productivity & Utilities",
+    "subcategory": "",
+    "purpose": "🪨 One decision a day.",
+    "description_fa": "این ابزار برای ساده‌تر کردن این کار و افزایش بهره‌وری طراحی شده است: 🪨 One decision a day.",
+    "tags": [
+      "adhd",
+      "android",
+      "behavioral-science",
+      "bilingual",
+      "deep-work"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1322864552,
+    "category": "Design & UI/UX",
+    "subcategory": "",
+    "purpose": "# FontWoW **استودیوی جادویی تایپوگرافی و متن‌آرایی آنلاین ⚡** *بنویس، استایل بده، عکس بگیر، انیمیشن بساز و به اشتراک بگذار!* --- [](https://github.com/FontWoW/FontWoW.github.io/actions/workflows/deploy.",
+    "description_fa": "این پروژه در زمینه طراحی رابط کاربری و ظاهر نرم‌افزار است: # FontWoW **استودیوی جادویی تایپوگرافی و متن‌آرایی آنلاین ⚡** *بنویس، استایل بده، عکس بگیر، انیمیشن بساز و به اشتراک بگذار!* --- [](https://github.com/FontWoW/FontWoW.github.io/actions/workflows/deploy.",
+    "tags": [
+      "fontwow",
+      "github",
+      "io"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1155716213,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Бесплатные VPN-конфиги без лагов 🚀.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Бесплатные VPN-конфиги без лагов 🚀.",
+    "tags": [
+      "anti-block",
+      "configs",
+      "free-vpn",
+      "free-vpn-keys",
+      "hiddify"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 959291742,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A curated list of free OSINT tools ⚡️.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A curated list of free OSINT tools ⚡️.",
+    "tags": [
+      "the",
+      "pika",
+      "s",
+      "osint"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1313842927,
+    "category": "Finance & Personal Budgeting",
+    "subcategory": "",
+    "purpose": "An Android app and iOS PWA that shows what all your money adds up to in Toman, and where it goes: a ledger filled from bank SMS, budgets, savings goals and installments, for one person or, if you choose, the whole family.",
+    "description_fa": "این برنامه برای ثبت و مدیریت امور مالی و بودجه شخصی طراحی شده است. An Android app and iOS PWA that shows what all your money adds up to in Toman, and where it goes: a ledger filled from bank SMS, budgets, savings goals and installments, for one person or, if you choose, the wh",
+    "tags": [
+      "android",
+      "compose",
+      "iran",
+      "kotlin"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Finance & Personal Budgeting"
+  },
+  {
+    "id": 1102402204,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "A modern, free, and unlimited Iranian Persian streaming platform.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: A modern, free, and unlimited Iranian Persian streaming platform.",
+    "tags": [
+      "ccloud",
+      "gui"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 628160489,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "A cross-platform music app using YouTube Music for backend.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: A cross-platform music app using YouTube Music for backend.",
+    "tags": [
+      "android",
+      "android-16",
+      "android-app",
+      "android-application",
+      "android-auto"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1279035578,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "A serverless IPTV web player with M3U management and dead-link cleaning, powered by Cloudflare Workers.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: A serverless IPTV web player with M3U management and dead-link cleaning, powered by Cloudflare Workers.",
+    "tags": [
+      "moe",
+      "iptv",
+      "player"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 628192229,
+    "category": "Security & Privacy",
+    "subcategory": "",
+    "purpose": "Useful tool to track location or mobile number.",
+    "description_fa": "این پروژه بر حریم خصوصی و امنیت تمرکز دارد و این قابلیت را ارائه می‌کند: Useful tool to track location or mobile number.",
+    "tags": [
+      "cybersecurity",
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Security & Privacy"
+  },
+  {
+    "id": 842733583,
+    "category": "Web & Frontend",
+    "subcategory": "UI Libraries",
+    "purpose": "ElevenTray is a privacy-respecting and lightweight utility for Windows 11 that ensures all system tray icons are always visible.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: ElevenTray is a privacy-respecting and lightweight utility for Windows 11 that ensures all system tray icons are always visible.",
+    "tags": [
+      "privacy",
+      "windows-11"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 168302368,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "📥 Next-generation Scoop (un)installer.",
+    "description_fa": "این ابزار به توسعه‌دهندگان کمک می‌کند تا این کار را انجام دهند: 📥 Next-generation Scoop (un)installer.",
+    "tags": [
+      "install"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1292422137,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "📱 Share your phone's internet with your PC — Android → Windows reverse tethering over an encrypted WireGuard tunnel.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 📱 Share your phone's internet with your PC — Android → Windows reverse tethering over an encrypted WireGuard tunnel.",
+    "tags": [
+      "android",
+      "connection-sharing",
+      "dotnet",
+      "golang",
+      "hotspot"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1347797694,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "Semi-automated system that categorizes my starred GitHub repos with AI assistance — no API key required.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: Semi-automated system that categorizes my starred GitHub repos with AI assistance — no API key required.",
+    "tags": [
+      "categorizing",
+      "starred",
+      "repos"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 584162076,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Osiris is a movie and show tracker app built with Flutter, Firebase, and TMDb API.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Osiris is a movie and show tracker app built with Flutter, Firebase, and TMDb API.",
+    "tags": [
+      "dart",
+      "firebase",
+      "firebase-auth",
+      "firebase-database",
+      "flutter"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1421577198,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Native V2Ray / Xray desktop client for Windows with interactive process-level (.exe) split tunneling, Wintun UDP support, and zero-config routing.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Native V2Ray / Xray desktop client for Windows with interactive process-level (.exe) split tunneling, Wintun UDP support, and zero-config routing.",
+    "tags": [
+      "client",
+      "discord-voice",
+      "proxy-client",
+      "split-tunneling",
+      "tun2socks"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1449548089,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS.",
+    "tags": [
+      "android",
+      "claude-code",
+      "codex",
+      "dashboard",
+      "desk-panel"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1403306223,
+    "category": "AI & LLM Tools",
+    "subcategory": "LLM Frameworks",
+    "purpose": "Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming.",
+    "tags": [
+      "asr",
+      "asr-model",
+      "persian",
+      "speech-recognition",
+      "speech-to-text"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1444441702,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "ArcVeePN - Android VPN app, open source (v1.7).",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: ArcVeePN - Android VPN app, open source (v1.7).",
+    "tags": [
+      "arcveepn"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1288771097,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Internet access is a right, not a privilege.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Internet access is a right, not a privilege.",
+    "tags": [
+      "reality",
+      "vpn",
+      "xray-core"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1444112593,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "Films made with code.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: Films made with code.",
+    "tags": [
+      "cinecode"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1432967563,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。.",
+    "tags": [
+      "ai-agent",
+      "android",
+      "android-app",
+      "coding-agent",
+      "deepseek"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1454661440,
+    "category": "Web & Frontend",
+    "subcategory": "Frameworks",
+    "purpose": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+    "tags": [
+      "cloudflare",
+      "cloudflare-workers",
+      "durable-objects",
+      "nodejs",
+      "rivet"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1165191055,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "fast simple multi platform TOR client with built in bridge.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: fast simple multi platform TOR client with built in bridge.",
+    "tags": [
+      "bridges",
+      "network",
+      "obfs4",
+      "privacy",
+      "proxy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1455485288,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "A fast, professional cross-platform download manager for direct links, YouTube videos, and BitTorrent.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: A fast, professional cross-platform download manager for direct links, YouTube videos, and BitTorrent.",
+    "tags": [
+      "download",
+      "downloader",
+      "downloadmanager",
+      "torrent-client-desktop",
+      "torrents-downloader"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1323874328,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Portable Windows downloader for Spotify, YouTube, TikTok, and Instagram with built-in authentication, proxy support, automatic tool management, and organized downloads.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Portable Windows downloader for Spotify, YouTube, TikTok, and Instagram with built-in authentication, proxy support, automatic tool management, and organized downloads.",
+    "tags": [
+      "blueknight",
+      "downloader"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1209343409,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "The headless browser for AI agents and web scraping.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: The headless browser for AI agents and web scraping.",
+    "tags": [
+      "antidetect",
+      "antidetect-browser",
+      "browser",
+      "browser-automation",
+      "cdp"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 77243612,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Watch YouTube videos on your TV and set-top-box with comfort.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Watch YouTube videos on your TV and set-top-box with comfort.",
+    "tags": [
+      "android",
+      "android-tv",
+      "exoplayer2",
+      "webview",
+      "youtube"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1220450682,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Privacy-focused Android networking app with VPN, Tor, I2P, firewall, DNS filtering, traffic routing, and FoxHole Sentinel.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Privacy-focused Android networking app with VPN, Tor, I2P, firewall, DNS filtering, traffic routing, and FoxHole Sentinel.",
+    "tags": [
+      "android",
+      "foxhole-dev",
+      "i2p",
+      "privacy",
+      "tor"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 736322676,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "edgetunnel2 VLESS/Trojan/SS 多功能面板.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: edgetunnel2 VLESS/Trojan/SS 多功能面板.",
+    "tags": [
+      "shadowsocks",
+      "shadowsocks-ws-tls",
+      "trojan",
+      "vless",
+      "vless-ws-tls"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1325352831,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Device-wide Android VPN for difficult networks: WireGuard, MASQUE, WARP-on-WARP, Psiphon, Tor, Foxy and SHARD — with Rust core, endpoint discovery, MTU scanning, multiple TUN engines, profiles and verified connections.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Device-wide Android VPN for difficult networks: WireGuard, MASQUE, WARP-on-WARP, Psiphon, Tor, Foxy and SHARD — with Rust core, endpoint discovery, MTU scanning, multiple TUN engines, profiles and verified conn",
+    "tags": [
+      "android",
+      "censorship-circumvention",
+      "dpi-bypass",
+      "http3",
+      "iran"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1437814166,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux.",
+    "tags": [
+      "bittorrent-client",
+      "debrid",
+      "download-accelerator",
+      "download-manager",
+      "downloadmanager"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1436174957,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Sneaky Android VPN client for Cloudflare WARP.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Sneaky Android VPN client for Cloudflare WARP.",
+    "tags": [
+      "varvara"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 934721960,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید.",
+    "tags": [
+      "configuration",
+      "hiddify",
+      "iran",
+      "sing-box",
+      "singbox"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1419640651,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "نصب‌کننده خودکار ورکر و دیتابیس کلودفلر.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: نصب‌کننده خودکار ورکر و دیتابیس کلودفلر.",
+    "tags": [
+      "jasaz"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1440263716,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "# Alan-RIP-Dpi — Android **کلاینت بومی و مهندسی‌شده اندروید جهت دور زدن بازرسی عمیق بسته (DPI)، اسکن هوشمند DoH و مدیریت پیشرفته تونل شبکه**      **دانلود فایل نصبی APK (Releases)** · **گزارش باگ و پیشنهاد** · **کانال تلگرام (@LabAlan)**.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: # Alan-RIP-Dpi — Android **کلاینت بومی و مهندسی‌شده اندروید جهت دور زدن بازرسی عمیق بسته (DPI)، اسکن هوشمند DoH و مدیریت پیشرفته تونل شبکه**      **دانلود فایل نصبی APK (Releases)** · **گزارش باگ و پیشنهاد** · ",
+    "tags": [
+      "alan",
+      "rip",
+      "dpi",
+      "android"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 488664286,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A networking platform for Dynamic DNS, Reverse Proxy, and remote access to local services without a public IP or port forwarding.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A networking platform for Dynamic DNS, Reverse Proxy, and remote access to local services without a public IP or port forwarding.",
+    "tags": [
+      "ddns",
+      "dns",
+      "dnslab",
+      "dynamic",
+      "free"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1043132918,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "📘 ترجمه فارسی کتاب The Linux Command Line (TLCL).",
+    "description_fa": "این پروژه ابزاری برای زبان فارسی و کاربران فارسی‌زبان است: 📘 ترجمه فارسی کتاب The Linux Command Line (TLCL).",
+    "tags": [
+      "book",
+      "books",
+      "command-line",
+      "command-line-tool",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1413193884,
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "purpose": "🎬 Fast, offline drag-and-drop video & image compressor powered by FFmpeg — فشرده‌ساز سریع و آفلاین ویدیو و تصویر | Tauri v2 + React + Rust.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: 🎬 Fast, offline drag-and-drop video & image compressor powered by FFmpeg — فشرده‌ساز سریع و آفلاین ویدیو و تصویر | Tauri v2 + React + Rust.",
+    "tags": [
+      "cross-platform",
+      "desktop-app",
+      "drag-and-drop",
+      "ffmpeg",
+      "i18n"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 643504282,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.",
+    "tags": [
+      "clash",
+      "clashmeta",
+      "ech",
+      "hysteria",
+      "hysteria2"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1449628018,
+    "category": "Productivity & Utilities",
+    "subcategory": "",
+    "purpose": "Telegram Project Manager.",
+    "description_fa": "این ابزار برای ساده‌تر کردن این کار و افزایش بهره‌وری طراحی شده است: Telegram Project Manager.",
+    "tags": [
+      "project",
+      "projectmanager",
+      "telegram"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1437705374,
+    "category": "Design & UI/UX",
+    "subcategory": "",
+    "purpose": "A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap local ADB setup.",
+    "description_fa": "این پروژه در زمینه طراحی رابط کاربری و ظاهر نرم‌افزار است: A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap l",
+    "tags": [
+      "tvos",
+      "launcher"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1423101235,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "tags": [
+      "adb",
+      "adblock",
+      "android-tv",
+      "android-tv-launcher",
+      "apple-tv"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1408629513,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "🛡️ Turn the free VeePN browser-extension proxy network into a system-wide VPN — modern GUI, SOCKS5/HTTP local proxy, no login.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 🛡️ Turn the free VeePN browser-extension proxy network into a system-wide VPN — modern GUI, SOCKS5/HTTP local proxy, no login.",
+    "tags": [
+      "cross-platform",
+      "gui",
+      "http-proxy",
+      "kill-switch",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1357727243,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "Drive a real Telegram account from an MCP client: chats, messages, media, secret chats, communities, folders, admin rights, invite links and Mini Apps, with multi-account routing and an approval safeguard.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: Drive a real Telegram account from an MCP client: chats, messages, media, secret chats, communities, folders, admin rights, invite links and Mini Apps, with multi-account routing and an approval safeguard.",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1309022018,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Persian Stremio addon for Iranian movies, series, IPTV and Persian media content.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Persian Stremio addon for Iranian movies, series, IPTV and Persian media content.",
+    "tags": [
+      "farsi",
+      "farsi-content",
+      "film-irani",
+      "film-jadid",
+      "iran-film"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1255669474,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "New mask, same task.",
+    "description_fa": "این ابزار به توسعه‌دهندگان کمک می‌کند تا این کار را انجام دهند: New mask, same task.",
+    "tags": [
+      "morphe",
+      "patches"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1404772297,
+    "category": "Media & Entertainment",
+    "subcategory": "",
+    "purpose": "Riff is the best, free music player with YouTube Music & SoundCloud library and WebGL shader visuals.",
+    "description_fa": "این پروژه یک ابزار رسانه‌ای است که امکان این کار را فراهم می‌کند: Riff is the best, free music player with YouTube Music & SoundCloud library and WebGL shader visuals.",
+    "tags": [
+      "audio",
+      "music",
+      "music-player",
+      "musicapp",
+      "player"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Media & Entertainment"
+  },
+  {
+    "id": 1270545315,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "# 🏴‍☠️ Luffy Panel A lightweight VLESS + Trojan proxy panel built with FastAPI, deployable on Render or Railway.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: # 🏴‍☠️ Luffy Panel A lightweight VLESS + Trojan proxy panel built with FastAPI, deployable on Render or Railway.",
+    "tags": [
+      "luffy",
+      "panel"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 849468519,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A web-based tool to generate V2Ray configurations for multiple IP addresses or ranges, supporting VMESS, VLESS, WireGuard, and Trojan protocols.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A web-based tool to generate V2Ray configurations for multiple IP addresses or ranges, supporting VMESS, VLESS, WireGuard, and Trojan protocols.",
+    "tags": [
+      "generator",
+      "trojan",
+      "v2ray",
+      "vless",
+      "vmess"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 899673384,
+    "category": "Web & Frontend",
+    "subcategory": "Frameworks",
+    "purpose": "serverless runtime.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: serverless runtime.",
+    "tags": [
+      "zizifn"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1241550259,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "آپدیت شده برای استفاده و راه اندازی در موبایل.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: آپدیت شده برای استفاده و راه اندازی در موبایل.",
+    "tags": [
+      "nikvpn",
+      "mobile",
+      "codespace"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1167449094,
+    "category": "Communication & Messaging",
+    "subcategory": "",
+    "purpose": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay.",
+    "description_fa": "این پروژه ابزار ارتباطی و پیام‌رسانی است و این قابلیت را ارائه می‌دهد: Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay.",
+    "tags": [
+      "zemzeme",
+      "android"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Communication & Messaging"
+  },
+  {
+    "id": 1151800975,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "IPCleanScanner is a Cloudflare / Fastly clean IP scanner and tester.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: IPCleanScanner is a Cloudflare / Fastly clean IP scanner and tester.",
+    "tags": [
+      "ipcleanscanner"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1164803104,
+    "category": "System Utilities",
+    "subcategory": "",
+    "purpose": "A free and open-source professional Graphical User Interface (GUI) for the official Microsoft Windows File Recovery command-line tool.",
+    "description_fa": "این پروژه یک ابزار سیستمی/رومیزی برای انجام این کار است: A free and open-source professional Graphical User Interface (GUI) for the official Microsoft Windows File Recovery command-line tool.",
+    "tags": [
+      "winfr",
+      "pro"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "System Utilities"
+  },
+  {
+    "id": 574523116,
+    "category": "AI & LLM Tools",
+    "subcategory": "Prompt Engineering",
+    "purpose": "f.k.a.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: f.k.a.",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1161523102,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌ه",
+    "tags": [
+      "nova",
+      "proxy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1162582477,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Cloudflare Worker–based IPTV proxy for streaming HLS channels with automatic playlist rewriting and CORS support.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Cloudflare Worker–based IPTV proxy for streaming HLS channels with automatic playlist rewriting and CORS support.",
+    "tags": [
+      "tv",
+      "workers"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1124352115,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "# 🌐 Vanilla DNS Changer **Open-source DNS Changer for Windows, macOS, and Linux** [](LICENSE) [](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/stargazers) [](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/issues) A secure, fast, and beautiful DNS changer application with **40+ DNS servers** support.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: # 🌐 Vanilla DNS Changer **Open-source DNS Changer for Windows, macOS, and Linux** [](LICENSE) [](https://github.com/Vanilla-DNSChanger/vanilla-dns-changer/stargazers) [](https://github.com/Vanilla-DNSChanger/va",
+    "tags": [
+      "vanilla",
+      "dns",
+      "changer"
+    ],
+    "confidence": "low",
+    "needs_review": true,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 893684207,
+    "category": "Developer Tools",
+    "subcategory": "DevOps & CI/CD",
+    "purpose": "Self-hosted, plugin-based server management.",
+    "description_fa": "این ابزار به توسعه‌دهندگان کمک می‌کند تا این کار را انجام دهند: Self-hosted, plugin-based server management.",
+    "tags": [
+      "docker",
+      "homelab",
+      "plugins",
+      "rdp",
+      "remote-desktop"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1017565423,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Quickly switch between popular DNS servers like Shecan, Radar, Electro, Google, and Cloudflare — ideal for reducing latency, bypassing restrictions, and improving stability in Iran.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Quickly switch between popular DNS servers like Shecan, Radar, Electro, Google, and Cloudflare — ideal for reducing latency, bypassing restrictions, and improving stability in Iran.",
+    "tags": [
+      "bash",
+      "cli-tool",
+      "dns",
+      "dns-server",
+      "linux"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 193305104,
+    "category": "Mobile Development",
+    "subcategory": "Android",
+    "purpose": "Android real-time display control software.",
+    "description_fa": "این پروژه یک برنامه موبایل برای این کاربرد است: Android real-time display control software.",
+    "tags": [
+      "android",
+      "qt"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 745108282,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter!",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter!",
+    "tags": [
+      "sub-store",
+      "subconverter",
+      "substore",
+      "subweb"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 944324171,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "wireguard Conifg Generator.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: wireguard Conifg Generator.",
+    "tags": [
+      "free-config",
+      "wireguard"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 830695504,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر.",
+    "tags": [
+      "free-config",
+      "hiddify",
+      "mahsang",
+      "nekobox",
+      "scanner"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 108221729,
+    "category": "Developer Tools",
+    "subcategory": "DevOps & CI/CD",
+    "purpose": "Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids.",
+    "description_fa": "این ابزار به توسعه‌دهندگان کمک می‌کند تا این کار را انجام دهند: Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids.",
+    "tags": [
+      "aws",
+      "azure",
+      "caprover",
+      "captainduckduck",
+      "containers"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1128093833,
+    "category": "Data & Visualization",
+    "subcategory": "Data Processing",
+    "purpose": "AI-powered YouTube video dubbing pipeline.",
+    "description_fa": "این پروژه داده‌ها را برای این کاربرد پردازش یا نمایش می‌دهد: AI-powered YouTube video dubbing pipeline.",
+    "tags": [
+      "ai-dubbing",
+      "automated-dubbing",
+      "automatic-subtitles",
+      "edge-tts",
+      "machine-translation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1151680021,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "An SSH tunnel management service built with Go.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: An SSH tunnel management service built with Go.",
+    "tags": [
+      "china",
+      "dnstt",
+      "iran",
+      "russia",
+      "ssh"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1161354756,
+    "category": "Communication & Messaging",
+    "subcategory": "",
+    "purpose": "🔐 Secure Pastebin — End-to-End Encrypted Message Sharing.",
+    "description_fa": "این پروژه ابزار ارتباطی و پیام‌رسانی است و این قابلیت را ارائه می‌دهد: 🔐 Secure Pastebin — End-to-End Encrypted Message Sharing.",
+    "tags": [
+      "cloudflare-workers",
+      "encryption",
+      "end-to-end-encryption",
+      "human-rights",
+      "privacy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Communication & Messaging"
+  },
+  {
+    "id": 1033881105,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A simple Cloudflare Worker that displays visitor's IP address, location, device information, and timezone data.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A simple Cloudflare Worker that displays visitor's IP address, location, device information, and timezone data.",
+    "tags": [
+      "ip",
+      "js",
+      "worker"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1045219163,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A sleek, neon-themed IP and device information tool built with Cloudflare Workers, featuring real-time data, WebRTC detection, and a modern UI.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A sleek, neon-themed IP and device information tool built with Cloudflare Workers, featuring real-time data, WebRTC detection, and a modern UI.",
+    "tags": [
+      "ipshine"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1159795654,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "The Ultimate Telegram Proxy Manager Built on Rust.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: The Ultimate Telegram Proxy Manager Built on Rust.",
+    "tags": [
+      "mtproto",
+      "mtproto-proxy",
+      "mtproxy",
+      "proxy",
+      "proxy-server"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1152480931,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Independently maintained, community fork of Psiphon Android client.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Independently maintained, community fork of Psiphon Android client.",
+    "tags": [
+      "shirokhorshid",
+      "android"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1158541291,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/T",
+    "tags": [
+      "irbox"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1159183780,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "IP Security Analyzer: A pro-grade Cloudflare Worker for forensic intelligence.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: IP Security Analyzer: A pro-grade Cloudflare Worker for forensic intelligence.",
+    "tags": [
+      "internet",
+      "ip",
+      "security",
+      "security-tools",
+      "vpn"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1146287414,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "One-click slipstream-rust server deployment script.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: One-click slipstream-rust server deployment script.",
+    "tags": [
+      "slipstream",
+      "rust",
+      "plus",
+      "deploy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1139478314,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "DNS Tunnel Manager.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: DNS Tunnel Manager.",
+    "tags": [
+      "dnstm"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1051763468,
+    "category": "Web & Frontend",
+    "subcategory": "Frameworks",
+    "purpose": "# CFnew 精简内核 [](https://github.com/byJoey/cfnew/releases/latest) [](https://developers.cloudflare.com/workers/) 把代理转发留在 Cloudflare，把控制台、优选操作和订阅生成交给独立面板。内核 **37,806 字节**，较原完整版本减少约 92%。节点流量直接连接你自己的 Worker。 **打开面板 · 下载最新版 · 视频教程 · 完整变量表** 当前默认分支是 `core-only`。旧完整版保留在 `main`，旧版发行是 v3.1。独立面板源码在 cfnew-panel。 ## 接入面板和客户端 1.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: # CFnew 精简内核 [](https://github.com/byJoey/cfnew/releases/latest) [](https://developers.cloudflare.com/workers/) 把代理转发留在 Cloudflare，把控制台、优选操作和订阅生成交给独立面板。内核 **37,806 字节**，较原完整版本减少约 92%。节点流量直接连接你自己的 Worker。 **打开面板",
+    "tags": [
+      "cfnew"
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": 1024581118,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Tunnel management for FRP Reverse Proxy.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Tunnel management for FRP Reverse Proxy.",
+    "tags": [
+      "frpulse"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1074505507,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Test and compare the performance of various DNS servers.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Test and compare the performance of various DNS servers.",
+    "tags": [
+      "dns",
+      "xs"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1130828193,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "High-performance multi-path covert channel over DNS in Rust with vibe coding.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: High-performance multi-path covert channel over DNS in Rust with vibe coding.",
+    "tags": [
+      "censorship-circumvention",
+      "dns",
+      "dns-tunnel",
+      "dns-tunneling",
+      "tunnel"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1140690445,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: Multi-platform dnstt client for restricted networks like Iran, China, Russia or maybe your mom firewall.",
+    "tags": [
+      "andriod",
+      "cencorship",
+      "china",
+      "dnstt",
+      "flutter-apps"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1007297542,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "One-click dnstt DNS tunnel server deployment and management script for Linux.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: One-click dnstt DNS tunnel server deployment and management script for Linux.",
+    "tags": [
+      "dnstt",
+      "deploy"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 1127066035,
+    "category": "Web & Frontend",
+    "subcategory": "Frameworks",
+    "purpose": "DigitalPlat FreeDomain: Free Domain For Everyone.",
+    "description_fa": "این پروژه یک ابزار یا برنامه تحت وب برای این کاربرد است: DigitalPlat FreeDomain: Free Domain For Everyone.",
+    "tags": [
+      "freedomain"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 808144141,
+    "category": "Learning & Educational",
+    "subcategory": "Tutorials",
+    "purpose": "Free domain registration and practical DNS learning resources for everyone.",
+    "description_fa": "این پروژه یک منبع آموزشی درباره این موضوع است: Free domain registration and practical DNS learning resources for everyone.",
+    "tags": [
+      "digitalplat",
+      "dns",
+      "dns-tutorial",
+      "documentation",
+      "domain"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 745612559,
+    "category": "Networking & Internet",
+    "subcategory": "",
+    "purpose": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.",
+    "description_fa": "این پروژه ابزاری در حوزه شبکه و اینترنت است و برای این کار طراحی شده است: A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cro",
+    "tags": [
+      "amnezia",
+      "android",
+      "chain",
+      "clash-core",
+      "doh-server"
+    ],
+    "confidence": "high",
+    "needs_review": false,
+    "suggested_new_category": true,
+    "suggested_category": "Networking & Internet"
+  },
+  {
+    "id": 968197216,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "description_fa": "این پروژه از هوش مصنوعی یا مدل‌های زبانی برای این کاربرد استفاده می‌کند: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "gemini",
+      "gemini-api"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 954807961,
+    "category": "Design & UI/UX",
+    "subcategory": "",
+    "purpose": "Dualboot theme based on WinTux artwork.",
+    "description_fa": "این پروژه در زمینه طراحی رابط کاربری و ظاهر نرم‌افزار است: Dualboot theme based on WinTux artwork.",
+    "tags": [
+      "grub",
+      "grub-theme",
+      "grub-themes",
+      "grub2",
+      "grub2-theme"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  }
+]
