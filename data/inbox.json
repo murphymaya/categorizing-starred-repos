@@ -1,3 +1,31 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 47469724,
+      "repo": "benbuck/rbtray",
+      "url": "https://github.com/benbuck/rbtray",
+      "description": "A fork of RBTray from http://sourceforge.net/p/rbtray/code/.",
+      "language": "C++",
+      "topics": [
+        "hook",
+        "hotkey",
+        "keyboard",
+        "mouse",
+        "tray",
+        "tray-icon"
+      ],
+      "stars": 1534,
+      "readme_snippet": "# RBTray\n\n## Status\n\n> [!NOTE]\n> RBTray is currently in maintenance mode, meaning no new features will be added,\n> but bugs may be fixed if reported.\n\n## Overview\n\nRBTray is a small Windows program that runs in the background and allows windows\nto be minimized to the system tray by:\n\n- Right-clicking its minimize button\n- Shift-right-clicking its title bar\n- Using the Control-Alt-Down hotkey\n\nNot all of these methods will work for every window, so please use whichever\nmethod works best for your needs. Also note that some types of windows can not\nbe properly minimized at all, most notably Windows Store application windows\nsuch as WhatsApp.\n\nRBTray is free, open source, and is distributed under the terms of the [GNU\nGeneral Public Licence](http://www.gnu.org/copyleft/gpl.html).\n\n## Download\n\n- [64 bit binaries](x64)\n- [32 bit binaries](x86)\n- [Original RBTray](https://sourceforge.net/projects/rbtray/files/)\n\n## Installing\n\nDownload either the 32-bit or 64-bit binaries (depending on your "
+    },
+    {
+      "id": 1466364854,
+      "repo": "FossilizedProgrammer/rython-authenticator",
+      "url": "https://github.com/FossilizedProgrammer/rython-authenticator",
+      "description": "Offline two-password authenticator (TOTP/HOTP/Steam) for Android, Linux and Windows. APKs, deb/rpm and msi/exe are built by GitHub Actions.",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 2,
+      "readme_snippet": "# Rython-Authenticator\n\n**English** · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Español](README.es.md) · [中文](README.zh.md)\n\nAn offline two-password authenticator (TOTP / HOTP / Steam), in one repository with two apps:\n\n| Folder | App | Stack |\n| --- | --- | --- |\n| [`android/`](android) | Android 8.0+ (API 26+) | Kotlin, Jetpack Compose |\n| [`desktop/`](desktop) | Linux and Windows | Kotlin, Compose Multiplatform (JVM) |\n\nBoth apps use the same vault/backup formats, so a backup exported on the phone restores\non the desktop and vice versa. Every start asks for two independent app passwords; codes\nare computed locally and no account data leaves the device.\n\nSee [`desktop/README.md`](desktop/README.md) for the desktop app in detail, including the\nsecurity and format notes.\n\n## Build locally\n\nRequirements: JDK 17 or newer, and for Android the Android SDK (platform 34, build-tools 34.0.0).\nThe Gradle wrapper is included in both projects.\n\n```bash\ncd android && ./gradlew assembleDe"
+    }
+  ]
 }
