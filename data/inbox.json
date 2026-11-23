@@ -26,6 +26,59 @@
       "topics": [],
       "stars": 2,
       "readme_snippet": "# Rython-Authenticator\n\n**English** · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Español](README.es.md) · [中文](README.zh.md)\n\nAn offline two-password authenticator (TOTP / HOTP / Steam), in one repository with two apps:\n\n| Folder | App | Stack |\n| --- | --- | --- |\n| [`android/`](android) | Android 8.0+ (API 26+) | Kotlin, Jetpack Compose |\n| [`desktop/`](desktop) | Linux and Windows | Kotlin, Compose Multiplatform (JVM) |\n\nBoth apps use the same vault/backup formats, so a backup exported on the phone restores\non the desktop and vice versa. Every start asks for two independent app passwords; codes\nare computed locally and no account data leaves the device.\n\nSee [`desktop/README.md`](desktop/README.md) for the desktop app in detail, including the\nsecurity and format notes.\n\n## Build locally\n\nRequirements: JDK 17 or newer, and for Android the Android SDK (platform 34, build-tools 34.0.0).\nThe Gradle wrapper is included in both projects.\n\n```bash\ncd android && ./gradlew assembleDe"
+    },
+    {
+      "id": 1424476588,
+      "repo": "SamRonin/downwise",
+      "url": "https://github.com/SamRonin/downwise",
+      "description": "⬇️ Smart right-click downloader & real file converter for Chrome (MV3) — دانلود و تبدیل هوشمند فایل‌ها با کلیک راست",
+      "language": "JavaScript",
+      "topics": [
+        "audio-conversion",
+        "chrome-extension",
+        "dark-mode",
+        "downloader",
+        "file-conversion",
+        "i18n",
+        "image-conversion",
+        "manifest-v3",
+        "open-source",
+        "persian",
+        "productivity",
+        "rtl",
+        "wav",
+        "webp"
+      ],
+      "stars": 11,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/icons/icon-128.png\" width=\"96\" alt=\"DownWise logo\" />\n\n# DownWise\n\n**دان‌وایز** — Smart right-click downloads with **real** format conversion for Chrome (Manifest V3). فارسی / English.\n\n[![CI](https://github.com/SamRonin/downwise/actions/workflows/ci.yml/badge.svg)](https://github.com/SamRonin/downwise/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-0D9488.svg)](LICENSE)\n[![Chrome](https://img.shields.io/badge/Chrome-MV3_116%2B-4285F4?logo=googlechrome&logoColor=white)](manifest.json)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-10B981.svg)](CONTRIBUTING.md)\n\n</div>\n\n---\n\n<div align=\"center\">\n\n| Popup (فارسی · light) | Options (فارسی · light) |\n|:---:|:---:|\n| <img src=\"docs/screenshots/popup-fa-light.png\" width=\"320\" alt=\"DownWise popup in Persian with light theme\" /> | <img src=\"docs/screenshots/options-fa-light.png\" width=\"520\" alt=\"DownWise options page in Persian\" /> |\n| **Popup (English · dark)"
+    },
+    {
+      "id": 1421957671,
+      "repo": "TssHack/vispar",
+      "url": "https://github.com/TssHack/vispar",
+      "description": "Vispar: movie and series app for Android, iOS, Web, Android TV and desktop",
+      "language": "TypeScript",
+      "topics": [
+        "cross-platform",
+        "filme",
+        "iran",
+        "react-native",
+        "serial",
+        "vispar",
+        "vlc"
+      ],
+      "stars": 69,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/brand/logo-lockup.png\" alt=\"Vispar\" width=\"420\">\n</p>\n\n<p align=\"center\">\n  <b>Movies and series, on every screen you own.</b><br>\n  One codebase for Android, iOS, the web, Android TV, Windows, macOS and Linux.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/TssHack/vispar/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/TssHack/vispar/actions/workflows/ci.yml/badge.svg\"></a>\n  <a href=\"https://github.com/TssHack/vispar/releases/latest\"><img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/TssHack/vispar?color=F2B544&label=release\"></a>\n  <img alt=\"Expo SDK 58\" src=\"https://img.shields.io/badge/Expo-SDK%2058-000020?logo=expo\">\n  <img alt=\"React Native 0.88\" src=\"https://img.shields.io/badge/React%20Native-0.88-20232A?logo=react\">\n  <img alt=\"TypeScript\" src=\"https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white\">\n  <img alt=\"RTL\" src=\"https://img.shields.io/badge/RTL-Persian-F2B"
+    },
+    {
+      "id": 1408333370,
+      "repo": "litoosh13/pdit",
+      "url": "https://github.com/litoosh13/pdit",
+      "description": "",
+      "language": "Rust",
+      "topics": [],
+      "stars": 19,
+      "readme_snippet": "# <img src=\".github/pdit-icon.jpg\" alt=\"\" width=\"40\" align=\"top\"> pdit\n\nA private PDF editor. Your PDFs stay on your computer: nothing is uploaded.\n\nEdit text and images, fill and create forms, comment, sign, add links and bookmarks, rearrange pages,\nfind and replace, print — and, with [leafmind](https://github.com/litoosh13/leafmind), find form fields,\nread scanned pages (OCR) and answer questions about a document, all on your device.\n\npdit is written in Rust (PDFium for showing PDFs; in the desktop app MuPDF edits text, re-wrapping paragraphs\nand shaping Persian and Arabic; Dioxus for the interface). It runs as a desktop app (macOS) and in the browser.\nIt is in early development.\n\n## Download\n\nmacOS (Apple silicon and Intel): get the `.dmg` from [Releases](../../releases). The app isn't signed by Apple\nyet, so the first time macOS asks: System Settings → Privacy & Security → **Open Anyway**.\n\nAsking questions needs an Apple-silicon Mac and downloads its models (about 760 MB) the firs"
     }
   ]
 }
