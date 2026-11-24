@@ -79,6 +79,218 @@
       "topics": [],
       "stars": 19,
       "readme_snippet": "# <img src=\".github/pdit-icon.jpg\" alt=\"\" width=\"40\" align=\"top\"> pdit\n\nA private PDF editor. Your PDFs stay on your computer: nothing is uploaded.\n\nEdit text and images, fill and create forms, comment, sign, add links and bookmarks, rearrange pages,\nfind and replace, print — and, with [leafmind](https://github.com/litoosh13/leafmind), find form fields,\nread scanned pages (OCR) and answer questions about a document, all on your device.\n\npdit is written in Rust (PDFium for showing PDFs; in the desktop app MuPDF edits text, re-wrapping paragraphs\nand shaping Persian and Arabic; Dioxus for the interface). It runs as a desktop app (macOS) and in the browser.\nIt is in early development.\n\n## Download\n\nmacOS (Apple silicon and Intel): get the `.dmg` from [Releases](../../releases). The app isn't signed by Apple\nyet, so the first time macOS asks: System Settings → Privacy & Security → **Open Anyway**.\n\nAsking questions needs an Apple-silicon Mac and downloads its models (about 760 MB) the firs"
+    },
+    {
+      "id": 519895363,
+      "repo": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "language": "Rust",
+      "topics": [
+        "app",
+        "application",
+        "cybersecurity",
+        "gui",
+        "iced",
+        "ip-geolocation",
+        "ipfix",
+        "linux",
+        "macos",
+        "network",
+        "network-monitoring",
+        "networking",
+        "packet-capture",
+        "packet-sniffer",
+        "pcap",
+        "rust",
+        "security",
+        "tool",
+        "utility",
+        "windows"
+      ],
+      "stars": 43269,
+      "readme_snippet": "<div align=\"center\">\n<picture>\n<img alt=\"\" title=\"Sniffnet\" src=\"https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/header_repository.png\" width=\"95%\"/>\n</picture>\n\n<a href=\"#download\"><img alt=\"\" title=\"Download\" src=\"https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/download.svg\"/></a>\n<a href=\"https://github.com/GyulyVGC/sniffnet/blob/main/ROADMAP.md\"><img alt=\"\" title=\"Roadmap\" src=\"https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/roadmap.svg\"/></a>\n<a href=\"https://sniffnet.app\"><img alt=\"\" title=\"Website\" src=\"https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/website.svg\"/></a>\n<a href=\"https://sniffnet.app/wiki/\"><img alt=\"\" title=\"Wiki\" src=\"https://raw.githubusercontent.com/GyulyVGC/sniffnet/main/resources/repository/badges/wiki.svg\"/></a>\n\nApplication to comfortably monitor your network traffic.<br>\nCross-platform. Intuitive. Reliable.\n\nTranslat"
+    },
+    {
+      "id": 158025849,
+      "repo": "AutoDarkMode/Windows-Auto-Night-Mode",
+      "url": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
+      "description": "Automatically switches between the dark and light theme of Windows 10 and Windows 11",
+      "language": "C#",
+      "topics": [
+        "csharp",
+        "dark-theme",
+        "darkmode",
+        "light-theme",
+        "lightweight",
+        "theme-switch",
+        "wallpaper-changer",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows-desktop",
+        "windowsappsdk",
+        "winui3",
+        "wpf"
+      ],
+      "stars": 9845,
+      "readme_snippet": "<p align=\"center\">\n  <img alt=\"Auto Dark Mode title image\" src=\"./assets/Readme.png\" />\n</p>\n\nSwitches between the dark and light theme of Windows at scheduled times.\n\n<a href=\"https://hosted.weblate.org/engage/auto-dark-mode/\">\n  <img src=\"https://hosted.weblate.org/widgets/auto-dark-mode/-/svg-badge.svg\" alt=\"Translation status\" />\n</a>\n\n[Features](#features) • [Download](#download) • [Release Notes](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases) • [Wiki](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/wiki) • [Telegram Group](https://t.me/autodarkmode) • [Website](https://autodarkmode.app/)\n\n# Auto Dark Mode\n\nTired of looking at dark content while the sun is shining brightly? But at night everything is suddenly too bright? Auto Dark Mode is the solution for you!\n\nAndroid, iOS and MacOS already offer the possibility of changing the system design based on the time of the day. We're bringing this feature to Windows on a larger scale.\n\nAuto Dark Mode helps you"
+    },
+    {
+      "id": 1001000081,
+      "repo": "403unlocker/bargozin-desktop",
+      "url": "https://github.com/403unlocker/bargozin-desktop",
+      "description": "🌐 DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers",
+      "language": "TypeScript",
+      "topics": [
+        "desktop",
+        "desktop-app",
+        "dns",
+        "hacktoberfest",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "stars": 181,
+      "readme_snippet": "# Bargozin (برگُزین) - DNS & Network Testing Tool\n\n<div align=\"center\">\n  <img src=\"src/assets/bargozin.png\" alt=\"Bargozin Logo\" width=\"120\" height=\"120\">\n  \n  [![Release](https://img.shields.io/github/v/release/Vesal-J/bargozin-desktop)](https://github.com/Vesal-J/bargozin-desktop/releases)\n  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n  [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/Vesal-J/bargozin-desktop/releases)\n  [![Tauri](https://img.shields.io/badge/Tauri-2.0-blue.svg)](https://tauri.app/)\n  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)\n  [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)\n</div>\n\n## 🌟 Overview\n\n**Bargozin** (برگُزین) is a powerful, cross-platform desktop application that helps you test and optimize your network connectivity. It evaluates DNS servers, measures download speeds, and te"
+    },
+    {
+      "id": 1318187016,
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor",
+        "docx",
+        "excel",
+        "libreoffice-alternative",
+        "local-first",
+        "markdown-editor",
+        "microsoft-office-alternative",
+        "office-suite",
+        "pdf-editor",
+        "pdf-to-word",
+        "powerpoint",
+        "pptx",
+        "skills",
+        "spreadsheet",
+        "xlsx"
+      ],
+      "stars": 12840,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://genoffice.ai/\">\n    <picture>\n      <source srcset=\"docs/assets/readme/hero-dark.webp\" media=\"(prefers-color-scheme: dark)\">\n      <img src=\"docs/assets/readme/hero.webp\" alt=\"GenOffice — the open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML with a built-in AI panel\" width=\"100%\">\n    </picture>\n  </a>\n</p>\n\n<h1 align=\"center\">GenOffice</h1>\n\n<p align=\"center\"><b>The world's first full-featured open-source AI Office suite.</b><br>\nWord, Excel, PowerPoint and PDF files, edited by you and your AI, saved back in the real formats.</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/genspark-ai/genoffice\" alt=\"License: Apache-2.0\"></a>\n  <a href=\"https://github.com/genspark-ai/genoffice/releases/latest\"><img src=\"https://img.shields.io/github/v/release/genspark-ai/genoffice\" alt=\"Latest release\"></a>\n  <a href=\"https://github.com/genspark-ai/genoffice/releases\"><img src=\"https://img.shields"
+    },
+    {
+      "id": 1468068023,
+      "repo": "viahamed/unbar",
+      "url": "https://github.com/viahamed/unbar",
+      "description": "Unbar — a DNS-tunnel VPN client based on Soar, by Break The Barriers",
+      "language": "C",
+      "topics": [
+        "android",
+        "dns",
+        "ios",
+        "soar",
+        "vpn"
+      ],
+      "stars": 15,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/unbar-logo-light.png\" alt=\"Unbar\" width=\"320\">\n  <img src=\"assets/break-the-barriers-logo.png\" alt=\"Break The Barriers\" width=\"110\">\n</p>\n\n<div dir=\"rtl\" lang=\"fa\">\n\n# آنبار (Unbar)\n\n**[فارسی](#فارسی) | [English](#english)**\n\n---\n\n<a id=\"فارسی\"></a>\n\n**آنبار™** یک کلاینت VPN تونل DNS برای اندروید و iOS است، بر پایهٔ [**Soar**](https://github.com/getlantern/soar)، از **Break The Barriers**.\n\n> ساخته‌شده برای قطعی‌های کامل اینترنت،\n> زمانی که DNS تنها راه خروج است.\n\nآنبار ترافیک اینترنت شما را داخل کوئری‌های DNS جاسازی می‌کند و از طریق سرور خودتان عبور می‌دهد؛ بنابراین وقتی دسترسی مستقیم به اینترنت قطع شده اما DNS هنوز جواب می‌دهد، اتصال برقرار می‌ماند. آنبار هیچ سرور پیش‌فرضی ندارد و بدون سرور شما کار نمی‌کند — سرور را خودتان اضافه می‌کنید.\n\n- وب‌سایت: [btb.onl](https://btb.onl)\n- کانال تلگرام: [@Break_The_Barriers](https://t.me/Break_The_Barriers)\n- اولین نسخهٔ عمومی: **1.0.0** (بیلد 1) — اندروید و iOS\n\n## آنبار چیست\n\nآنبار یک VPN معمولی نیست. به‌ج"
+    },
+    {
+      "id": 175773665,
+      "repo": "SadeghHayeri/GreenTunnel",
+      "url": "https://github.com/SadeghHayeri/GreenTunnel",
+      "description": "GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.",
+      "language": "TypeScript",
+      "topics": [
+        "deep-packet-inspection",
+        "dpi",
+        "filtering",
+        "firewall-bypass",
+        "isp",
+        "proxy",
+        "sni",
+        "socks",
+        "vpn"
+      ],
+      "stars": 5101,
+      "readme_snippet": "# Green Tunnel\n\n<p align=\"center\">\n    <img src=\"assets/logo.png\" alt=\"green tunnel logo\" width=\"200\">\n</p>\n<p align=\"center\">\n    <img src=\"https://img.shields.io/github/license/SadeghHayeri/GreenTunnel.svg?color=Green&style=for-the-badge\">\n    <img src=\"https://img.shields.io/npm/v/green-tunnel?color=Green&style=for-the-badge\">\n    <img src=\"https://img.shields.io/github/repo-size/SadeghHayeri/GreenTunnel.svg?color=Green&style=for-the-badge\">\n</p>\n\nGreenTunnel bypasses DPI (Deep Packet Inspection) systems found in many ISPs (Internet Service Providers) which block access to certain websites.\n\nIt runs a local proxy that splits the TLS ClientHello so the hostname you are visiting never appears whole in a single packet, and resolves DNS over an encrypted channel so your resolver cannot be used to block or observe you either.\n\n> **Note:** GreenTunnel does not hide your IP address and is not a VPN. It defeats hostname-based blocking, nothing more.\n\n---\n\n<table>\n<tr>\n<td width=\"340\"><img s"
+    },
+    {
+      "id": 6860771,
+      "repo": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source  cross-platform USB stack for embedded system",
+      "language": "C",
+      "topics": [
+        "embedded",
+        "midi",
+        "msc",
+        "tinyusb",
+        "usb",
+        "usb-cdc",
+        "usb-devices",
+        "usb-drive",
+        "usb-hid",
+        "usb-host",
+        "webusb"
+      ],
+      "stars": 7298,
+      "readme_snippet": "TinyUSB\n=======\n\n|Sponsor| |License| |Build Status| |CircleCI Status| |Documentation Status| |Static Analysis| |Fuzzing Status| |Membrowse| |CodeRabbit| |Greptile|\n\nOverview\n--------\n\n.. figure:: docs/assets/logo.svg\n   :alt: TinyUSB\n   :align: left\n\n.. raw:: html\n\n   <div class=\"clear-both\"></div>\n\nTinyUSB is an open-source cross-platform USB Host/Device stack for embedded systems. It’s designed for memory safety\n(no dynamic allocation) and thread safety (all interrupts deferred to non-ISR task functions). The stack emphasizes portability,\nsmall footprint, and real-time performance across 50+ MCU families.\n\nSponsors\n--------\n\nTinyUSB's continued development is made possible by its sponsors. If TinyUSB helps your products or projects, consider funding its development on `GitHub Sponsors`_.\n\nPlatinum\n^^^^^^^^\n\n`Adafruit`_ has backed TinyUSB since day one as its founding and sole Platinum sponsor. Buying their products directly funds the project's development.\n\n.. figure:: docs/assets/ad"
+    },
+    {
+      "id": 1440956372,
+      "repo": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 42373,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://getartcraft.com/\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/artcraft-logo-white.svg\">\n      <img alt=\"ArtCraft\" src=\"docs/brand/artcraft-logo.svg\" width=\"200\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/app-icon/hicolor/256x256/apps/ai.storyteller.craft-anything.png\" width=\"128\" height=\"128\" alt=\"Craft Anything icon: an engraved raven on a blue tile\">\n</p>\n\n<h1 align=\"center\">Craft Anything</h1>\n\n<p align=\"center\">\n  <b>English</b> · <a href=\"README.ja.md\">日本語</a> · <a href=\"README.zh.md\">简体中文</a> · <a href=\"README.zh-hant.md\">繁體中文</a> · <a href=\"README.ko.md\">한국어</a> · <a href=\"README.es.md\">Español</a> · <a href=\"README.fr.md\">Français</a> · <a href=\"README.vi.md\">Tiếng Việt</a> · <a href=\"README.pt.md\">Português</a> · <a href=\"README.th.md\">ไทย</a> · <a href=\"README.tr.md\">Türkçe</a>\n</p>\n\n<p align=\"center\">\n  <b>See how any website, app or game works, then have AI build your own "
+    },
+    {
+      "id": 1466917023,
+      "repo": "FossilizedProgrammer/proxyharvest",
+      "url": "https://github.com/FossilizedProgrammer/proxyharvest",
+      "description": "Harvest, test and sort free proxies — single static Go binary for Linux/Windows",
+      "language": "Go",
+      "topics": [],
+      "stars": 3,
+      "readme_snippet": "# proxyharvest\n\n**زبان‌ها:** [فارسی](README.md) · [English](README.en.md) · [Русский](README.ru.md) · [Español](README.es.md) · [中文](README.zh.md)\n\nابزار خط فرمان Go برای جمع‌آوری پروکسی‌های رایگان از رجیستری داخلی سایت‌ها (داخل کد)، تست واقعی آن‌ها از اتصال مستقیم و مرتب‌سازی بر اساس سرعت.\n\nباینری‌های ایستا برای Linux و Windows (amd64/arm64) در صفحهٔ [Releases](https://github.com/FossilizedProgrammer/proxyharvest/releases) منتشر می‌شوند — خود گیتهاب با Actions آن‌ها را از همین سورس می‌سازد.\n\n## ساخت\n\n```bash\ngo build -o proxyharvest .\n```\n\n## استفاده\n\n```bash\n# همه سایت‌ها، همه کشورها، خروجی پیش‌فرض proxies.txt\n./proxyharvest\n\n# فقط پروکسی‌های آمریکا، ۲۰ مورد سریع‌تر\n./proxyharvest -country US -top 20 -out us.txt\n\n# فقط HTTP و SOCKS5\n./proxyharvest -types http,socks5\n\n# نشان دادن جزئیات هر منبع (موفق/ناموفق، تعداد، پروکسی‌های جایگزین)\n./proxyharvest -v\n```\n\n`-country` کد دوحرفی ISO می‌گیرد (مثل `US`، `DE`، `IR`).\n\n## دیدن و انتخاب سایت‌ها\n\nهر سایت با یک نام کوتاه شناخته می‌شود. برای د"
+    },
+    {
+      "id": 1465876978,
+      "repo": "ChikyChikyBoomBoom/AntiRegister",
+      "url": "https://github.com/ChikyChikyBoomBoom/AntiRegister",
+      "description": "آنتی ریجستر: دو گوشی را با بلوتوث به هم وصل کن؛ گوشی ریجستر‌نشده‌ات را هر روز استفاده کن، در حالی که سیم‌کارت داخل گوشی ریجستر‌شده است. پیامک، مخاطبین و تاریخچه تماس (فقط خواندنی). نسخه بتا، بخش تماس در حال توسعه.",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 41,
+      "readme_snippet": "# AntiRegister | آنتی ریجستر\n\n**English** · [فارسی](#فارسی)\n\n> ⚠️ **Beta.** SMS, Bluetooth link, Contacts and read-only Call History are available. **The calling part is still under development and is switched off in this version.**\n\n---\n\n## English\n\n### What is AntiRegister?\n\nIn many countries a phone that is not *registered* (IMEI registration) can't use a local SIM card. Many people end up carrying **two phones**: a registered one that holds the SIM, and the phone they actually want to use every day.\n\n**AntiRegister connects those two phones over Bluetooth**, so you can use your daily phone for the things your SIM phone receives, without constantly picking up the second one.\n\n- **SIM Phone** – the registered phone with your SIM card. It stays in your bag or at home.\n- **Main Phone** – the phone you actually use. It shows and sends your messages through the SIM Phone.\n\n### What works in this beta\n\n- **SMS** – receive SMS that arrive on the SIM Phone and send SMS from the Main Phone t"
+    },
+    {
+      "id": 1467488550,
+      "repo": "amirwmr/tether",
+      "url": "https://github.com/amirwmr/tether",
+      "description": "Use an Android phone's calls, SMS, contacts and call history from your iPhone over an end-to-end encrypted Bluetooth link. No server, no account.",
+      "language": "C",
+      "topics": [
+        "android",
+        "bluetooth-low-energy",
+        "callkit",
+        "ios",
+        "kotlin",
+        "sms",
+        "swift"
+      ],
+      "stars": 51,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/images/logo.svg\" width=\"112\" alt=\"Tether logo\">\n</p>\n\n<h1 align=\"center\">Tether</h1>\n\n<p align=\"center\"><b>Your Android phone's calls, texts, contacts and call history on your iPhone, iPad or a second\nAndroid phone, over an end-to-end encrypted Bluetooth link. No server, no account.</b></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/amirwmr/tether/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/amirwmr/tether/ci.yml?branch=main&label=CI\"></a>\n  <a href=\"https://github.com/amirwmr/tether/releases/latest\"><img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/amirwmr/tether?include_prereleases&sort=semver\"></a>\n  <a href=\"LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/license-MIT-blue\"></a>\n  <img alt=\"Android 10+\" src=\"https://img.shields.io/badge/Android-10%2B-3DDC84?logo=android&logoColor=white\">\n  <img alt=\"iOS 16+\" src=\"https://img.shields.io/badge/iOS-16"
     }
   ]
 }
