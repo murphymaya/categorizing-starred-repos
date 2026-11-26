@@ -291,6 +291,57 @@
       ],
       "stars": 51,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/images/logo.svg\" width=\"112\" alt=\"Tether logo\">\n</p>\n\n<h1 align=\"center\">Tether</h1>\n\n<p align=\"center\"><b>Your Android phone's calls, texts, contacts and call history on your iPhone, iPad or a second\nAndroid phone, over an end-to-end encrypted Bluetooth link. No server, no account.</b></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/amirwmr/tether/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/amirwmr/tether/ci.yml?branch=main&label=CI\"></a>\n  <a href=\"https://github.com/amirwmr/tether/releases/latest\"><img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/amirwmr/tether?include_prereleases&sort=semver\"></a>\n  <a href=\"LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/license-MIT-blue\"></a>\n  <img alt=\"Android 10+\" src=\"https://img.shields.io/badge/Android-10%2B-3DDC84?logo=android&logoColor=white\">\n  <img alt=\"iOS 16+\" src=\"https://img.shields.io/badge/iOS-16"
+    },
+    {
+      "id": 1362867086,
+      "repo": "hoabba3i-dev/BUB-Panel",
+      "url": "https://github.com/hoabba3i-dev/BUB-Panel",
+      "description": "Free multi-protocol VPN management panel — binary releases; full source is not published.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 68,
+      "readme_snippet": "<div align=\"center\">\n\n# BUB Panel\n\n### Free Network & Server Management Panel · Main + Multi-Node\n\n<p>\n  <a href=\"#quick-install\"><img alt=\"Quick Install\" src=\"https://img.shields.io/badge/Quick_Install-00C8D7?style=for-the-badge&logo=linux&logoColor=white\"></a>\n  <a href=\"https://github.com/hoabba3i-dev/BUB-Panel/releases/latest\"><img alt=\"Latest Release\" src=\"https://img.shields.io/badge/Latest_Release-v0.2.1-16A34A?style=for-the-badge&logo=github&logoColor=white\"></a>\n</p>\n\n<p>\n  <a href=\"#donate\"><img alt=\"Donate\" src=\"https://img.shields.io/badge/❤️_Donate-Support-00C8D7?style=for-the-badge\"></a>\n  <a href=\"https://t.me/bub_tunnel\"><img alt=\"Telegram Channel\" src=\"https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white\"></a>\n  <a href=\"https://t.me/Bubtunnel_support\"><img alt=\"Support\" src=\"https://img.shields.io/badge/Telegram-Support-229ED9?style=for-the-badge&logo=telegram&logoColor=white\"></a>\n</p>\n\n<p>\n  <a href=\"#english\"><kbd>🇬"
+    },
+    {
+      "id": 1105931398,
+      "repo": "RookieEnough/Orion-Store",
+      "url": "https://github.com/RookieEnough/Orion-Store",
+      "description": "The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 4402,
+      "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/m3-hero-dark.svg\">\n    <img src=\"assets/m3-hero-light.svg\" alt=\"Orion Store, the open source app store in Material 3 Expressive\" width=\"100%\">\n  </picture>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/RookieEnough/Orion-Store/stargazers\"><img src=\"https://img.shields.io/github/stars/RookieEnough/Orion-Store?style=flat-square&logo=github&color=7478F8&labelColor=E1E0FF\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/RookieEnough/Orion-Store/network/members\"><img src=\"https://img.shields.io/github/forks/RookieEnough/Orion-Store?style=flat-square&logo=github&color=A3E635&labelColor=E1E0FF\" alt=\"Forks\"></a>\n</p>\n\n<p align=\"center\">\n  A transparent app store built around public releases, inspectable metadata, and automation you can actually follow.<br>\n  <strong>Now fully native.</strong>\n</p>\n\n<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/"
+    },
+    {
+      "id": 1391438314,
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "language": "Swift",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "antigravity",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "dynamic-island",
+        "gemini-cli",
+        "ios",
+        "iphon",
+        "linux",
+        "macos",
+        "macos-app",
+        "menubar-app",
+        "notch",
+        "open-source",
+        "swift",
+        "swiftui",
+        "windows"
+      ],
+      "stars": 7463,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"NotchBuddy/Assets.xcassets/AppIcon.appiconset/icon_256x256.png\" width=\"96\" alt=\"Coucou icon\">\n\n# Coucou\n\n**A tiny friend that lives in your Mac's notch — or at the top of your screen on Windows and Linux — and keeps an eye on your AI coding agent sessions. And now on your phone too: iPhone and Android.**\n\nApprove permissions, watch your agents work, drop a file, chat with Claude — all without leaving what you're doing. Walk away from your Mac and Mochi follows you to your iPhone: Lock Screen, Dynamic Island, widgets, Siri.\n\n**New in 0.4: Coucou is a real Mac app.** Hold a key anywhere, speak, let go: your words are pasted where you type, like Wispr Flow — free, open source, and offline with Parakeet. Record your calls without a bot in the meeting and get the transcript, the summary and the to-dos.\n\n<a href=\"https://louisraille.fr/botan\"><img src=\"docs/media/botan.svg\" width=\"40\" alt=\"Botan\"></a>\n\n**New: Botan. Mochi is leaving the notch.** Botan snaps on"
     }
   ]
 }
