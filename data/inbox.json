@@ -342,6 +342,16 @@
       ],
       "stars": 7463,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"NotchBuddy/Assets.xcassets/AppIcon.appiconset/icon_256x256.png\" width=\"96\" alt=\"Coucou icon\">\n\n# Coucou\n\n**A tiny friend that lives in your Mac's notch — or at the top of your screen on Windows and Linux — and keeps an eye on your AI coding agent sessions. And now on your phone too: iPhone and Android.**\n\nApprove permissions, watch your agents work, drop a file, chat with Claude — all without leaving what you're doing. Walk away from your Mac and Mochi follows you to your iPhone: Lock Screen, Dynamic Island, widgets, Siri.\n\n**New in 0.4: Coucou is a real Mac app.** Hold a key anywhere, speak, let go: your words are pasted where you type, like Wispr Flow — free, open source, and offline with Parakeet. Record your calls without a bot in the meeting and get the transcript, the summary and the to-dos.\n\n<a href=\"https://louisraille.fr/botan\"><img src=\"docs/media/botan.svg\" width=\"40\" alt=\"Botan\"></a>\n\n**New: Botan. Mochi is leaving the notch.** Botan snaps on"
+    },
+    {
+      "id": 1470690325,
+      "repo": "Abolfazlshahi/QuickOCR",
+      "url": "https://github.com/Abolfazlshahi/QuickOCR",
+      "description": "QuickOCR",
+      "language": "Python",
+      "topics": [],
+      "stars": 12,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/logo.png\" width=\"104\" alt=\"QuickOCR Logo\" />\n</p>\n\n<h1 align=\"center\">QuickOCR</h1>\n\n<p align=\"center\">\n  Minimal, offline-first Windows &amp; Linux screen &amp; clipboard OCR utility powered by <b>OCRia-nano-1</b>, <b>Surya OCR</b>, <b>EasyOCR</b>, <b>PP-OCRv6 / v5 / v4</b>, <b>Tesseract Best LSTM</b>, <b>Marker</b>, and Vision LLMs with a pure-black animated PySide6 UI.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://t.me/pythash\"><img src=\"https://img.shields.io/badge/Telegram-%40pythash-24A1DE?style=flat-square&logo=telegram&logoColor=white\" alt=\"Telegram @pythash\" /></a>\n  <img src=\"https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-000000?style=flat-square\" alt=\"Windows and Linux\" />\n  <img src=\"https://img.shields.io/badge/Python-3.10%2B-000000?style=flat-square\" alt=\"Python\" />\n  <img src=\"https://img.shields.io/badge/License-MIT-000000?style=flat-square\" alt=\"License\" />\n</p>\n\n<p align=\"center\">\n  Join our Telegram channel <a href=\"ht"
     }
   ]
 }
