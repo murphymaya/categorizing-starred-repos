@@ -352,6 +352,62 @@
       "topics": [],
       "stars": 12,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/logo.png\" width=\"104\" alt=\"QuickOCR Logo\" />\n</p>\n\n<h1 align=\"center\">QuickOCR</h1>\n\n<p align=\"center\">\n  Minimal, offline-first Windows &amp; Linux screen &amp; clipboard OCR utility powered by <b>OCRia-nano-1</b>, <b>Surya OCR</b>, <b>EasyOCR</b>, <b>PP-OCRv6 / v5 / v4</b>, <b>Tesseract Best LSTM</b>, <b>Marker</b>, and Vision LLMs with a pure-black animated PySide6 UI.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://t.me/pythash\"><img src=\"https://img.shields.io/badge/Telegram-%40pythash-24A1DE?style=flat-square&logo=telegram&logoColor=white\" alt=\"Telegram @pythash\" /></a>\n  <img src=\"https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-000000?style=flat-square\" alt=\"Windows and Linux\" />\n  <img src=\"https://img.shields.io/badge/Python-3.10%2B-000000?style=flat-square\" alt=\"Python\" />\n  <img src=\"https://img.shields.io/badge/License-MIT-000000?style=flat-square\" alt=\"License\" />\n</p>\n\n<p align=\"center\">\n  Join our Telegram channel <a href=\"ht"
+    },
+    {
+      "id": 1474426578,
+      "repo": "alipyth/varagh_book_reader",
+      "url": "https://github.com/alipyth/varagh_book_reader",
+      "description": "The Bood Library And Reader for Persian Users , Support API,LOCAL AI , AND CLI TO API :)",
+      "language": "Python",
+      "topics": [],
+      "stars": 14,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/banner.svg\" alt=\"Varagh Book Reader Banner\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href=\"README.fa.md\">🇮🇷 راهنمای فارسی (Persian README)</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/alipyth/CLI_to_API\"><img src=\"https://img.shields.io/badge/Powered%20by-CLI__to__API-0E7490?style=flat-square\" alt=\"CLI_to_API\"></a>\n  <img src=\"https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white\" alt=\"Python 3.10+\">\n  <img src=\"https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white\" alt=\"FastAPI\">\n  <img src=\"https://img.shields.io/badge/Math-KaTeX%20%2B%20Live%20Plots-E3A92B?style=flat-square\" alt=\"KaTeX\">\n  <img src=\"https://img.shields.io/badge/Memory-FSRS%20%2B%20Obsidian-6A4BA6?style=flat-square\" alt=\"FSRS\">\n</p>\n\n# Varagh Book Reader (ورق)\n\n**Varagh** is a local-first, AI-powered **bilingual deep-learning book reader** "
+    },
+    {
+      "id": 1473468099,
+      "repo": "mehdijam2006-rgb/BlackSMS",
+      "url": "https://github.com/mehdijam2006-rgb/BlackSMS",
+      "description": "BlackSMS – A smart Android SMS app with powerful spam filtering, sender ID blocking, custom keyword rules, and secure message quarantine",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 11,
+      "readme_snippet": "# BlackSMS\n\n**Your Messages. Your Rules.**  \n**پیام‌های تو، قوانین تو.**\n\nBlackSMS is a privacy-focused Android SMS application designed to give users control over unwanted messages through intelligent filtering, adaptive learning, sender blocking, and customizable rules.\n\nبلک‌اس‌ام‌اس یک اپلیکیشن پیامک اندرویدی با تمرکز بر حریم خصوصی است که با فیلتر هوشمند، یادگیری تطبیقی، مسدودسازی فرستندگان و قوانین قابل تنظیم، کنترل پیام‌های ناخواسته را در اختیار کاربر قرار می‌دهد.\n\n## Features | قابلیت‌ها\n\n- **Smart Spam Filtering | فیلتر هوشمند اسپم:** Identify and filter suspicious and unwanted SMS messages.\n- **Adaptive Learning | یادگیری تطبیقی:** Learn from messages and senders blocked by the user, recognize similar patterns in incoming messages, and predict unwanted SMS. Based on confidence and user settings, messages can be automatically blocked or quarantined. User feedback helps refine future filtering.\n- **Sender Blocking | مسدودسازی فرستنده:** Block unwanted phone numbers, sender IDs, a"
+    },
+    {
+      "id": 1474360211,
+      "repo": "ayub-kokabi/segah",
+      "url": "https://github.com/ayub-kokabi/segah",
+      "description": "All three dates—Jalali, Hijri, and Gregorian—along with today's holidays and special occasions, right next to the Windows taskbar clock.",
+      "language": "C++",
+      "topics": [
+        "date",
+        "iran",
+        "native",
+        "persian-calendar",
+        "win32",
+        "windows-11",
+        "windows-api"
+      ],
+      "stars": 4,
+      "readme_snippet": "# Segah — سه‌گاه\n\nسه‌گاه نرم‌افزاری سبک برایِ ویندوز است که با رفتنِ ماوس رویِ تاریخ در تسکبار، تاریخِ خورشیدی و قمری و میلادی را برایِ روزِ جاری به همراهِ مناسبت‌هایِ آن رور نشان می‌دهد. همچنین اگر روزی تعطیلِ رسمی باشد اعلام می‌شود. داده‌ها از سایتِ time.ir گرفته می‌شود.\n\n<p align=\"center\">\n  <img src=\"demo.png\" alt=\"Segah Demo\">\n</p>\n\n## دانلود\n\nآخرین نسخه برنامه را می‌توانید از این صفحه دریافت کنید:  \n[دانلود سه‌گاه](https://github.com/ayub-kokabi/segah/releases/latest)  \n\nدر صورت تمایل می‌توانید برنامه را خودتان کامپایل کنید.\n\n## کامپایل برنامه\n\nپیش‌نیازها:\n\n- Windows 11\n- Visual Studio Build Tools (workload Desktop development with C++), MSVC x64\n- [xmake](https://xmake.io) version 3+\n\n\n\n```powershell\nxmake\n# build\\windows\\x64\\release\n```\n"
+    },
+    {
+      "id": 1174892716,
+      "repo": "WinNative-Emu/WinNative",
+      "url": "https://github.com/WinNative-Emu/WinNative",
+      "description": "An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.",
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "emulation",
+        "epicgames",
+        "gaming",
+        "gog",
+        "steam",
+        "windows"
+      ],
+      "stars": 781,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"logo.png\" alt=\"WinNative\" width=\"500\">\n</p>\n<p align=\"center\">\n    <a href=\"https://discord.gg/uhTkvGfakU\">\n        <img src=\"https://img.shields.io/discord/1358831699814912141?color=5865F2&label=WinNative&logo=discord&logoColor=white\"\n            alt=\"Discord\">\n    </a>\n</p>\n\n## WinNative: A Community Built Windows Emulation App for Android\n\n**WinNative** is an advanced, high-performance Windows (x86_64) emulation environment for Android,\nunifying the best of **Winlator Bionic** and **Pluvia**. It delivers the full Winlator experience,\nmakes it easy to connect your Steam, Epic and GOG libraries, and runs classic console games\nalongside them.\n\n| | |\n| --- | --- |\n| 📦 **Install** | [Releases](https://github.com/WinNative-Emu/WinNative/releases) |\n| 🎮 **Retro consoles** | [docs/RETRO-CONSOLES.md](docs/RETRO-CONSOLES.md) — NES through PlayStation 2 |\n| 🎞️ **Frame generation** | [docs/FRAME-GENERATION.md](docs/FRAME-GENERATION.md) — LSFG and WFG (WinNative/Wi"
     }
   ]
 }
